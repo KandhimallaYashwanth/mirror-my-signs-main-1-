@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mirror My Signs
 
 Implement exactly the screenshot and nothing else
@@ -24,3 +25,6 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+=======
+# mirror-my-signs-main-1-
+>>>>>>> 353e4b439ee61190fc52cf11d0abd1a03b4e9600
