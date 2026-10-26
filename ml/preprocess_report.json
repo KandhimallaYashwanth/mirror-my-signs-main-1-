@@ -1,0 +1,16 @@
+{
+  "videos_found": 190,
+  "usable": 190,
+  "failed": [],
+  "class_distribution": {
+    "hello": 21,
+    "how_are_you": 21,
+    "alright": 21,
+    "good_morning": 21,
+    "good_afternoon": 22,
+    "good_evening": 21,
+    "good_night": 21,
+    "thank_you": 21,
+    "pleased": 21
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "asset_id": "04e4ff81-1c85-4f38-800c-889595287b55",
+  "project_id": "bdccab6d-4fd3-470f-82f9-58d94dc879ca",
+  "url": "/__l5e/assets-v1/04e4ff81-1c85-4f38-800c-889595287b55/asl_bigru.onnx",
+  "r2_key": "a/v1/bdccab6d-4fd3-470f-82f9-58d94dc879ca/04e4ff81-1c85-4f38-800c-889595287b55/asl_bigru.onnx",
+  "original_filename": "asl_bigru.onnx",
+  "size": 10360628,
+  "content_type": "application/octet-stream",
+  "created_at": "2026-10-12T16:35:45Z"
+}
